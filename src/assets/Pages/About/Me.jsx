@@ -11,7 +11,7 @@ function Me() {
           alt="Bordered avatar"
         />
         <div className="text-black text-center lg:text-left mt-3">
-          <h2 className="text-2xl">Connect with Me</h2>
+          <h2 className="text-2xl font-bold">Connect with Me</h2>
           <div className="flex gap-4 justify-center lg:justify-start mt-2">
             <a href="https://www.linkedin.com/in/kartik-verma-6643161b2/" target="_blank" rel="noopener noreferrer">
               <FaLinkedin className="text-3xl hover:text-blue-500 transition" />
@@ -27,11 +27,11 @@ function Me() {
       </div>
       
       <div className="lg:w-2/3 mt-6 lg:mt-0">
-        <h1 className="text-3xl lg:text-4xl font-semibold text-[#420665] text-center lg:text-left">
+        <h1 className="text-3xl lg:text-4xl font-extrabold text-[#420665] text-center lg:text-left">
           Diving Deep into Code: Unveiling the World of 
           <span className="text-nowrap"> Kartik Verma</span>
         </h1>
-        <div className="text-black mt-4 text-sm lg:text-base text-center lg:text-left px-2">
+        <div className="text-black mt-4 text-sm lg:text-base text-center lg:text-left px-2 font-bold">
           <p>
             I'm Kartik Verma, an enthusiastic undergrad at IIT Mandi diving into 
             Computer Science and Engineering. As a full-stack developer, I merge 
