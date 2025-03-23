@@ -39,10 +39,12 @@ function Me() {
             a strong foundation in Data Structures and Algorithms.
           </p>
           <p className="mt-4">
-            My journey includes securing a globally under 40 rank in the NASA Space 
-            Apps Challenge 2024, competing against over 1500 teams, and being among 
-            the top 3 in India. Our project focused on a **greenhouse gas emission 
-            mapping system**.
+          My journey includes securing a globally under 40 rank in the NASA Space 
+  Apps Challenge 2024, competing against over 15000 teams, and being among 
+  the top 3 in India. Our project focused on a greenhouse gas emission 
+  mapping system using ML/DL and built a website for it. I have also participated 
+  in intra-college and inter-college hackathons, exploring blockchain, ML/DL, 
+  web development, and app development.
           </p>
         </div>
       </div>
